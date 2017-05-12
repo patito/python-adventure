@@ -1,9 +1,3 @@
-# Python Linked List
-#
-# Hi douchebad, thanks for vising my blog. I have decided that
-# I should learn more
-# about algorithms and data structure as result I wrote this
-# shit post about linked list
 
 
 class Node(object):
