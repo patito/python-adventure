@@ -87,9 +87,7 @@ class LinkedList(object):
             current = self.head
             previous = self.head
             while current:
-                print("loop")
                 if current.data == data:
-                    print("Data Entrou if = ", current.data)
                     previous.next = current.next
                     self.count -= 1
                     break
